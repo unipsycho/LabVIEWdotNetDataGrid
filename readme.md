@@ -1,0 +1,3 @@
+LabVIEW dot Net DataGrid
+
+Project Summary: A simple data grid for use in place of LabVIEW's table that supports more of the standard expected table/grid functions for sorting, filters and auto fitting content.  Basically, this grid is to allow better table support, with more built in features that you can use standard labview data with and basic properties to map the labview table to this one for supporting content.
