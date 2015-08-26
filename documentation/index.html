@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>LabVIEW dotNet DataGrid Component</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A wrapper library component for LabVIEW that is a .net DataGrid">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/docs.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    
+    <script>
+        var shiftWindow = function () {
+            scrollBy(0, -60)
+        };
+        window.addEventListener("hashchange", shiftWindow);
+
+        function load() {
+            if (window.location.hash) shiftWindow();
+        }
+    </script>
+</head>
+
+<body onload="load()">
+    <header>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container container-fluid">
+                    <div class="navbar-header">
+                        <a href="#" class="pull-left"><img class="brandImage" src="img/grid.png"></a>
+                        <a class="navbar-brand" href="#">LabVIEW dotNet DataGrid</a>
+                        <p class="navbar-text"></p>
+                    </div>
+                    
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sections <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#overview">Overview</a></li>
+                                <li><a href="#dependancies">Dependancies</a></li>
+                                <li><a href="#usage">Usage</a></li>
+                                <li><a href="#datatypes">Data Types</a></li>
+                                <li><a href="#events">Events</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <p class="navbar-text">Version 1.0</p>
+                    </ul>
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+        </div>
+    </header>
+    
+    <div class="container">
+        <div class="page-header">
+            <a name="overview"><h1>Overview</h1></a>
+            A simple data grid for use in place of LabVIEW's table that supports more of the standard expected table/grid functions for sorting, filters and auto fitting content.  Basically, this grid is to allow better table support, with more built in features that you can use standard labview data with and basic properties to map the labview table to this one for supporting content.
+        </div>
+
+        <div class="page-header">
+            <a name="dependancies"><h1>Dependancies</h1></a>
+            OpenG is used for several variant data inspectors
+        </div>
+        
+        <a name="usage"></a>
+        <div class="page-header">
+            <h1>Usage</h1>
+            See the example code. Four simple steps to use it:
+            <ol>
+                <li>Place a .NET DataGrid control on the front panel</li>
+                <li>Initialize the DataGrid Class using the .net control reference</li>
+                <li>Add all column definitions</li>
+                <li>Add data as rows</li>
+            </ul>
+        </div>
+
+        <div class="page-header">
+            <a name="datatypes"><h1>Data Types</h1></a>
+            Currently, there are several datatypes supported:
+            <ul>
+                <li>Text</li>
+                <li>Links</li>
+                <li>Ring Selectors</li>
+                <li>Buttons</li>
+                <li>Checkmark Booleans</li>
+                <li>Images</li>
+            </ul>
+        </div>
+
+        <div class="page-header">
+            <a name="events"><h1>Events</h1></a>
+            no support for events yet
+        </div>
+    </div>
+</body>
+
+</html>
