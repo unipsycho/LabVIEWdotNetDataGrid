@@ -121,8 +121,18 @@
 
         <div class="page-header">
             <a name="events"><h1>Events</h1></a>
-            Cell Edit Ended - This single event is used currently as a sample for callback events.
-            More to be added.
+            <ul>
+                <li>Cell Edit Ended - This single event is used currently as a sample for callback events.</li>
+                <li>Cell Value Changed - Works but errors currently on custom datatypes.  Need to handle errors and extend this event</li>
+            </ul>
+            
+            <div class="panel panel-default">
+                <div class="panel-heading">Adding new Events to the code</div>
+                <div class="panel-body">
+                Events are created during initialization and registered as user events.  in order to get the event structure to see the new events, the "registeredEvents" property needs to be updated with a new control when more are added to the array.  This enables them to be visible to the event structure when opened from the class property.
+                </div>
+            </div>
+       
         </div>
     </div>
 </body>

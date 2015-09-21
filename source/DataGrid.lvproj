@@ -52,7 +52,8 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Convert Between String and Array.vi" Type="VI" URL="../subVIs/Convert Between String and Array.vi"/>
-			<Item Name="EventCallBack-CellEndEdit.vi" Type="VI" URL="../../handling_dotnet_events2/EventCallBack-CellEndEdit.vi"/>
+			<Item Name="CellValueChanged Event Callback.vi" Type="VI" URL="../Events/CellValueChanged Event Callback.vi"/>
+			<Item Name="CellClicked Event Callback.vi" Type="VI" URL="../Events/CellClicked Event Callback.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
