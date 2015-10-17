@@ -3,7 +3,19 @@ A very useful and easy to use data grid to replace LabVIEW's tables and multicol
 
 Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.
 
-![Front Panel](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/documentation/img/AppSample.jpg)
+![Front Panel](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/Frontpanel.png)
+
+#Features
+* Auto drawing and formatting of content
+* Auto Column width sizing (auto, cell, fill, none, etc)
+* Inline objects for combobox, buttons, checks and images
+* Clickable Columns to sort (Asc/Dsc)
+* Dragable columns to reorder them
+* Minimum column widths
+* Basic Events integration with LabVIEW Event structure for integration into your app
+
+#Easy to Use
+![Block Diagram](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/BlockDiagram.jpg)
 
 # Dependencies
 OpenG is used for several variant data inspectors
@@ -20,8 +32,10 @@ See the example code. Four simple steps to use it:
 ![Choose DataGridView](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/documentation/img/Select%20DataGridView.jpg)
 
 ####3.Define the column parameters
+![Define Columns](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/defineColumns.PNG)
 
 ####4.Add data
+![Add String Table Data](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/StringData.png)
 
 #Data Types
 Currently, there are several datatypes supported:
@@ -32,13 +46,6 @@ Currently, there are several datatypes supported:
 * Images
 * Buttons
 * Combobox (selection lists)
-
-#Features
-* Clickable Columns to sort (Asc/Dsc)
-* Dragable columns to reorder them
-* Column width sizing (auto, cell, fill, none, etc)
-* Minimum column widths
-* Inline data objects for combobox, buttons, checks and images
 
 #Events
 * Cell Edit Ended - This single event is used currently as a sample for callback events.
