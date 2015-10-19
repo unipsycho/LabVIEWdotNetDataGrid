@@ -54,4 +54,4 @@ Currently, there are several datatypes supported:
 # Contributing
 
 This repository is written and maintained in LabVIEW 2014 SP1.
-See the [Todo.rm](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/todo.md) for areas you can contribute.
+See the [Todo.md](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/todo.md) for areas you can contribute.
