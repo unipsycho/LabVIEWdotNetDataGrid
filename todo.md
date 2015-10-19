@@ -1,5 +1,5 @@
 Todo Items / Areas to contribute:
-- [ ] Create faster drawing grid using data bound data
+- [x] Create faster drawing grid using data bound data
 - [ ] Edit/Add/Delete methods
 - [ ] Additional Events (keyboard?, column orders)
 - [ ] Cell coloring methods, disabling
