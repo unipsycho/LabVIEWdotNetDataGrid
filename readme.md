@@ -53,4 +53,4 @@ Currently, there are several datatypes supported:
 
 # Contributing
 
-This repository is written and maintained in LabVIEW 2014.
+This repository is written and maintained in LabVIEW 2014 SP1.
