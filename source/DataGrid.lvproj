@@ -21,6 +21,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Color.lvclass" Type="LVClass" URL="../Color/Color.lvclass"/>
 		<Item Name="GridColumn.lvclass" Type="LVClass" URL="../GridColumn/GridColumn.lvclass"/>
 		<Item Name="DataGridView.lvclass" Type="LVClass" URL="../DataGridView/DataGridView.lvclass"/>
 		<Item Name="Example Simple.vi" Type="VI" URL="../Example Simple.vi"/>
