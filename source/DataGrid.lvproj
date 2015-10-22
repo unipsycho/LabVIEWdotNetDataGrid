@@ -22,9 +22,13 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Color.lvclass" Type="LVClass" URL="../Color/Color.lvclass"/>
+		<Item Name="CellStyle.lvclass" Type="LVClass" URL="../CellStyle/CellStyle.lvclass"/>
+		<Item Name="Font.lvclass" Type="LVClass" URL="../Font/Font.lvclass"/>
+		<Item Name="DataTable.lvclass" Type="LVClass" URL="../DataTable/DataTable.lvclass"/>
 		<Item Name="GridColumn.lvclass" Type="LVClass" URL="../GridColumn/GridColumn.lvclass"/>
 		<Item Name="DataGridView.lvclass" Type="LVClass" URL="../DataGridView/DataGridView.lvclass"/>
 		<Item Name="Example Simple.vi" Type="VI" URL="../Example Simple.vi"/>
+		<Item Name="Example LabVIEW Table.vi" Type="VI" URL="../Example LabVIEW Table.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
