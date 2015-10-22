@@ -1,5 +1,7 @@
 Todo Items / Areas to contribute:
 - [x] Create faster drawing grid using data bound data
+- [ ] Separate out grid and datatable classes
+- [x] Create separate classes or cellstyle, font and color
 - [ ] Edit/Add/Delete methods
 - [ ] Additional Events (keyboard?, column orders)
 - [x] Cell coloring methods
