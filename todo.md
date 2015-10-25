@@ -1,8 +1,11 @@
 Todo Items / Areas to contribute:
 - [x] Create faster drawing grid using data bound data
+- [ ] Separate out grid and datatable classes
+- [x] Create separate classes or cellstyle, font and color
 - [ ] Edit/Add/Delete methods
 - [ ] Additional Events (keyboard?, column orders)
-- [ ] Cell coloring methods, disabling
+- [x] Cell coloring methods
+- [ ] Cell en/disabling and other cell properties
 - [ ] Saving/Restoring layout methods
 - [ ] Icons, Paletes and VI packages
 - [ ] Custom Cell data types for unique cells
