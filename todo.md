@@ -1,6 +1,6 @@
 Todo Items / Areas to contribute:
 - [x] Create faster drawing grid using data bound data
-- [ ] Separate out grid and datatable classes
+- [x] Separate out grid and datatable classes
 - [x] Create separate classes or cellstyle, font and color
 - [ ] Edit/Add/Delete methods
 - [ ] Additional Events (keyboard?, column orders)
@@ -15,3 +15,4 @@ Position Future Addons:
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?
 - [ ] Cell Templates for complex data inline?
+- [ ] Auto create columns for simple grid usage
