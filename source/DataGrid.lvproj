@@ -23,6 +23,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Helper Functions" Type="Folder">
 			<Item Name="Easy Grid Setup.vi" Type="VI" URL="../Helper Functions/Easy Grid Setup.vi"/>
+			<Item Name="Easy Style Setup.vi" Type="VI" URL="../Helper Functions/Easy Style Setup.vi"/>
+			<Item Name="Easy Color Columns.vi" Type="VI" URL="../Helper Functions/Easy Color Columns.vi"/>
 		</Item>
 		<Item Name="Color.lvclass" Type="LVClass" URL="../Color/Color.lvclass"/>
 		<Item Name="CellStyle.lvclass" Type="LVClass" URL="../CellStyle/CellStyle.lvclass"/>
@@ -36,7 +38,6 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
 				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
-				<Item Name="PLT Common Functions.lvlib" Type="Library" URL="/&lt;vilib&gt;/Prolucid Technologies/PLT Common Functions/PLT Common Functions.lvlib"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -83,6 +84,7 @@
 			<Item Name="System.Data" Type="Document" URL="System.Data">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Convert Between String and Array.vi" Type="VI" URL="../subVIs/Convert Between String and Array.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
