@@ -10,9 +10,10 @@ Todo Items / Areas to contribute:
 - [ ] Icons, Paletes and VI packages
 - [ ] Custom Cell data types for unique cells
 
-Position Future Addons:
+Posible Future Addons:
 - [ ] More binding options
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?
 - [ ] Cell Templates for complex data inline?
 - [ ] Auto create columns for simple grid usage
+- [ ] Formula entry and validation (for cell math like excel)
