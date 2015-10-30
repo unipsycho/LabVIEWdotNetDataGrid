@@ -9,6 +9,7 @@ Todo Items / Areas to contribute:
 - [ ] Saving/Restoring layout methods
 - [ ] Icons, Paletes and VI packages
 - [ ] Custom Cell data types for unique cells
+- [ ] Clean out datatable references unused in the gridview class after refactoring classes
 
 Posible Future Addons:
 - [ ] More binding options
