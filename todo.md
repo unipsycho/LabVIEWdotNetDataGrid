@@ -5,7 +5,7 @@ Todo Items / Areas to contribute:
 - [ ] Edit/Add/Delete methods
 - [ ] Additional Events (keyboard?, column orders)
 - [x] Cell coloring methods
-- [ ] Cell en/disabling and other cell properties
+- [x] Cell en/disabling
 - [ ] Saving/Restoring layout methods
 - [ ] Icons, Paletes and VI packages
 - [ ] Custom Cell data types for unique cells
