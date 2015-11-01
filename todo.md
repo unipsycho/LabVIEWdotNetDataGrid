@@ -12,6 +12,7 @@ Todo Items / Areas to contribute:
 - [ ] Clean out datatable references unused in the gridview class after refactoring classes
 
 Posible Future Addons:
+- [ ] Database binding support (SQLite or others)
 - [ ] More binding options
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?
