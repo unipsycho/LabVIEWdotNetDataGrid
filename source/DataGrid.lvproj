@@ -33,7 +33,7 @@
 		<Item Name="GridColumn.lvclass" Type="LVClass" URL="../GridColumn/GridColumn.lvclass"/>
 		<Item Name="DataGridView.lvclass" Type="LVClass" URL="../DataGridView/DataGridView.lvclass"/>
 		<Item Name="Example Simple.vi" Type="VI" URL="../Example Simple.vi"/>
-		<Item Name="Example LabVIEW Table.vi" Type="VI" URL="../Example LabVIEW Table.vi"/>
+		<Item Name="Example Advanced.vi" Type="VI" URL="../Example Advanced.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
@@ -69,6 +69,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
+				<Item Name="PLT Common Functions.lvlib" Type="Library" URL="/&lt;vilib&gt;/Prolucid Technologies/PLT Common Functions/PLT Common Functions.lvlib"/>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
