@@ -12,6 +12,7 @@ Todo Items / Areas to contribute:
 - [ ] Saving/Restoring layouts
 
 Posible Future Addons:
+- [ ] Database binding support (SQLite or others)
 - [ ] More binding options
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?
