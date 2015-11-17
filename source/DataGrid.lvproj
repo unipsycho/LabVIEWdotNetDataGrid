@@ -69,7 +69,6 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
-				<Item Name="PLT Common Functions.lvlib" Type="Library" URL="/&lt;vilib&gt;/Prolucid Technologies/PLT Common Functions/PLT Common Functions.lvlib"/>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -86,6 +85,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Convert Between String and Array.vi" Type="VI" URL="../subVIs/Convert Between String and Array.vi"/>
+			<Item Name="Remove Duplicates from 1D.vi" Type="VI" URL="../DataGridView/Remove Duplicates from 1D.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
