@@ -15,5 +15,4 @@
 	<Item Name="DataTable.lvclass" Type="LVClass" URL="../DataTable/DataTable.lvclass"/>
 	<Item Name="Font.lvclass" Type="LVClass" URL="../Font/Font.lvclass"/>
 	<Item Name="GridColumn.lvclass" Type="LVClass" URL="../GridColumn/GridColumn.lvclass"/>
-	<Item Name="Remove Duplicates from 1D.vi" Type="VI" URL="../DataGridView/Remove Duplicates from 1D.vi"/>
 </Library>
