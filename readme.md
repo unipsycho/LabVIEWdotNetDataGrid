@@ -46,6 +46,7 @@ Currently, there are several datatypes supported:
 * Images
 * Buttons
 * Combobox (selection lists)
+* Links
 
 #Events
 * Cell Edit Ended - This single event is used currently as a sample for callback events.
