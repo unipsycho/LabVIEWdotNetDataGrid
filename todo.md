@@ -5,6 +5,7 @@ Todo Items / Areas to contribute:
 - [X] Clean out datatable references unused in the gridview class after refactoring classes
 - [X] Edit/Add/Delete methods
 - [x] Cell coloring methods
+- [x] Add link column types for hyperlinks
 - [x] Cell en/disabling
 - [X] Icons, Paletes
 - [ ] Additional Events (keyboard?, column orders)
