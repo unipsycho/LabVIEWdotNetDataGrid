@@ -9,7 +9,7 @@ Todo Items / Areas to contribute:
 - [x] Cell en/disabling
 - [X] Icons, Paletes
 - [ ] Additional Events (keyboard?, column orders)
-- [ ] VI Packager for installs
+- [X] VI Packager for installs
 - [ ] Saving/Restoring layouts
 
 Posible Future Addons:
