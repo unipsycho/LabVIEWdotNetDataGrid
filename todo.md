@@ -8,6 +8,7 @@ Todo Items / Areas to contribute:
 - [x] Add link column types for hyperlinks
 - [x] Cell en/disabling
 - [X] Icons, Paletes
+- [x] Column captions insted of names, allowing duplicates and multiline column headers.
 - [ ] Additional Events (keyboard?, column orders)
 - [X] VI Packager for installs
 - [ ] Saving/Restoring layouts
