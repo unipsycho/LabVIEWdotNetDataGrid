@@ -8,12 +8,14 @@ Todo Items / Areas to contribute:
 - [x] Add link column types for hyperlinks
 - [x] Cell en/disabling
 - [X] Icons, Paletes
+- [x] Column captions insted of names, allowing duplicates and multiline column headers.
 - [ ] Additional Events (keyboard?, column orders)
-- [ ] VI Packager for installs
+- [X] VI Packager for installs
 - [ ] Saving/Restoring layouts
 
 Posible Future Addons:
 - [ ] Database binding support (SQLite or others)
+- [ ] Cell highlights during edit and validation feedback
 - [ ] More binding options
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?

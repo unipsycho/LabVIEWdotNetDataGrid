@@ -51,6 +51,7 @@ Currently, there are several datatypes supported:
 #Events
 * Cell Edit Ended - This single event is used currently as a sample for callback events.
 * Cell Value Changed - Works but errors currently on custom datatypes. Need to handle errors and extend this event
+* Cell Validating - This is an automatic callback event, that cancels any edits when the cell value doesn't validate.  No LabVIEW events are currently generated from this.
 
 # Contributing
 
