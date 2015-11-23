@@ -14,6 +14,7 @@ Todo Items / Areas to contribute:
 
 Posible Future Addons:
 - [ ] Database binding support (SQLite or others)
+- [ ] Cell highlights during edit and validation feedback
 - [ ] More binding options
 - [ ] Auto display/load CSV/TDMS files into grid
 - [ ] Export, save and print features?
