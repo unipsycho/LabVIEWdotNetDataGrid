@@ -23,3 +23,4 @@ Posible Future Addons:
 - [ ] Auto create columns for simple grid usage
 - [ ] Formula entry and validation (for cell math like excel)
 - [ ] Indent and collapse/expand support for tree like data?
+- [ ] Right click context menu to allow user operations (potentially with configurable options)
