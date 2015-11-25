@@ -23,7 +23,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DataGrid.lvlib" Type="Library" URL="../DataGrid.lvlib"/>
 		<Item Name="Example Simple.vi" Type="VI" URL="../Example Simple.vi"/>
-		<Item Name="Example Advanced.vi" Type="VI" URL="../Example Advanced.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
@@ -111,7 +110,7 @@
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Example Advanced.vi</Property>
+				<Property Name="Source[2].itemID" Type="Ref"></Property>
 				<Property Name="Source[2].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Example Simple.vi</Property>

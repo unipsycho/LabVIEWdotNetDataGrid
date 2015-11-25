@@ -4,6 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Event Classes" Type="Folder">
+		<Item Name="Abstract EVENT.lvclass" Type="LVClass" URL="../Events/Abstract EVENT/Abstract EVENT.lvclass"/>
+		<Item Name="CellClick.lvclass" Type="LVClass" URL="../Events/CellClick/CellClick.lvclass"/>
+		<Item Name="CellValueChanged.lvclass" Type="LVClass" URL="../Events/CellValueChanged/CellValueChanged.lvclass"/>
+		<Item Name="DataError.lvclass" Type="LVClass" URL="../Events/DataError/DataError.lvclass"/>
+		<Item Name="KeyDown.lvclass" Type="LVClass" URL="../Events/KeyDown/KeyDown.lvclass"/>
+		<Item Name="UserAddedRow.lvclass" Type="LVClass" URL="../Events/UserAddedRow/UserAddedRow.lvclass"/>
+		<Item Name="UserDeletedRow.lvclass" Type="LVClass" URL="../Events/UserDeletedRow/UserDeletedRow.lvclass"/>
+	</Item>
 	<Item Name="Helper Functions" Type="Folder">
 		<Item Name="Easy Color Columns.vi" Type="VI" URL="../Helper Functions/Easy Color Columns.vi"/>
 		<Item Name="Easy Grid Setup.vi" Type="VI" URL="../Helper Functions/Easy Grid Setup.vi"/>
