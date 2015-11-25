@@ -1,4 +1,4 @@
-Todo Items / Areas to contribute:
+1st release Todo Items / Areas to contribute:
 - [x] Create faster drawing grid using data bound data
 - [x] Separate out grid and datatable classes
 - [x] Create separate classes or cellstyle, font and color
@@ -9,11 +9,11 @@ Todo Items / Areas to contribute:
 - [x] Cell en/disabling
 - [X] Icons, Paletes
 - [x] Column captions insted of names, allowing duplicates and multiline column headers.
-- [ ] Additional Events (keyboard?, column orders)
+- [X] Additional Events (keyboard?, column orders)
 - [X] VI Packager for installs
-- [ ] Saving/Restoring layouts
 
-Posible Future Addons:
+Future Addons (to be evaluated / considered):
+- [ ] Saving/Restoring layouts
 - [ ] Database binding support (SQLite or others)
 - [ ] Cell highlights during edit and validation feedback
 - [ ] More binding options
@@ -23,3 +23,4 @@ Posible Future Addons:
 - [ ] Auto create columns for simple grid usage
 - [ ] Formula entry and validation (for cell math like excel)
 - [ ] Indent and collapse/expand support for tree like data?
+- [ ] Right click context menu to allow user operations (potentially with configurable options)
