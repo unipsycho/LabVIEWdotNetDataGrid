@@ -91,7 +91,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{198ED58C-DA08-4E3F-A912-5B06D7D104EA}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DataGrid.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../binaries/NI_AB_PROJECTNAME.lvlibp</Property>
