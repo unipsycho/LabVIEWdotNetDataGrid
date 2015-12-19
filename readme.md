@@ -3,7 +3,7 @@ A very useful and easy to use data grid to replace LabVIEW's tables and multicol
 
 Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.
 
-![Front Panel](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/Frontpanel.png)
+![Front Panel](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v1.0/documentation/img/Frontpanel.png)
 
 #Features
 * Auto drawing and formatting of content
