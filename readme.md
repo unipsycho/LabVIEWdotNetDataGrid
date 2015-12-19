@@ -3,7 +3,7 @@ A very useful and easy to use data grid to replace LabVIEW's tables and multicol
 
 Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.
 
-![Front Panel](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/Frontpanel.png)
+![Front Panel](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Frontpanel.png)
 
 #Features
 * Auto drawing and formatting of content
@@ -15,7 +15,7 @@ Basically, this grid allows better table support, with more built in features th
 * Basic Events integration with LabVIEW Event structure for integration into your app
 
 #Easy to Use
-![Block Diagram](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/BlockDiagram.jpg)
+![Block Diagram](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/BlockDiagram.jpg)
 
 # Dependencies
 OpenG is used for several variant data inspectors
@@ -25,17 +25,17 @@ See the example code. Four simple steps to use it:
 
 ####1.Place a .NET DataGrid control on the front panel
 
-![Insert .NET Control](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/documentation/img/Insert%20.NET%20Control.jpg)
+![Insert .NET Control](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Insert%20.NET%20Control.jpg)
 
 ####2.Initialize the DataGrid Class using the .net control reference
 
-![Choose DataGridView](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/documentation/img/Select%20DataGridView.jpg)
+![Choose DataGridView](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Select%20DataGridView.jpg)
 
 ####3.Define the column parameters
-![Define Columns](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/defineColumns.PNG)
+![Define Columns](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/defineColumns.PNG)
 
 ####4.Add data
-![Add String Table Data](https://raw.githubusercontent.com/unipsycho/LabVIEWdotNetDataGrid/v0.1/documentation/img/StringData.png)
+![Add String Table Data](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/StringData.png)
 
 #Data Types
 Currently, there are several datatypes supported:
