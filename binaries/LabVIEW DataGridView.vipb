@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2015-12-19 09:43:07" Creator="Mike" Comments="" ID="e551b35fcb1b9a55847f8e8d5d4a0c08">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2015-12-19 14:27:51" Creator="Mike" Comments="" ID="1408b16544ca1e80a9127ea4582a530b">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -305,7 +305,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\DataGridView\Remove Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A3ADB802E8FBA29FC03E4F8C64CC6419</GUID>
+      <GUID>57F8C8BD91F099B81CB7ED5D2666E7CC</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -340,7 +340,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6E31288C5B572E204B9831E099BC5477</GUID>
+      <GUID>2974DA10EB949056C0100061D527D918</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
