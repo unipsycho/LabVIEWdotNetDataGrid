@@ -57,6 +57,8 @@ Currently, there are several datatypes supported:
 * UserAddedRow - returns the row
 * UserDeletedRow - returns the row
 
+# Releases
+Grab the latest releases to use this project [here from github](https://github.com/unipsycho/LabVIEWdotNetDataGrid/releases).
 # Contributing
 
 This repository is written and maintained in LabVIEW 2014 SP1.
