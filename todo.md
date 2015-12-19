@@ -9,7 +9,7 @@
 - [x] Cell en/disabling
 - [X] Icons, Paletes
 - [x] Column captions insted of names, allowing duplicates and multiline column headers.
-- [X] Additional Events (keyboard?, column orders)
+- [X] Additional Events (key presses, cell change, add row, delete row)
 - [X] VI Packager for installs
 
 Future Addons (to be evaluated / considered):
