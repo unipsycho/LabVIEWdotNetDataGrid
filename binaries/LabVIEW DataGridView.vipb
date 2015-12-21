@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2015-12-19 14:27:51" Creator="Mike" Comments="" ID="1408b16544ca1e80a9127ea4582a530b">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2015-12-21 08:00:40" Creator="Mike" Comments="" ID="302fe357e00d8bd018e44aca1dbb3dcc">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -108,6 +108,27 @@ Basically, this grid allows better table support, with more built in features th
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>binaries</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>documentation</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.gitattributes</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>license.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>readme.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>todo.md</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -305,7 +326,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\DataGridView\Remove Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57F8C8BD91F099B81CB7ED5D2666E7CC</GUID>
+      <GUID>BCEB6FE5899371281EE64A624678F709</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -340,7 +361,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2974DA10EB949056C0100061D527D918</GUID>
+      <GUID>43CC4566DB9D2F03ED7597EA0F6687A3</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

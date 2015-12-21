@@ -22,8 +22,8 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DataGrid.lvlib" Type="Library" URL="../DataGrid.lvlib"/>
-		<Item Name="Example Define All Rows.vi" Type="VI" URL="../Example Define All Rows.vi"/>
 		<Item Name="Example Simple DataBinding.vi" Type="VI" URL="../Example Simple DataBinding.vi"/>
+		<Item Name="Example Custom Row Cell Types.vi" Type="VI" URL="../Example Custom Row Cell Types.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
@@ -90,8 +90,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{198ED58C-DA08-4E3F-A912-5B06D7D104EA}</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">DataGrid.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../binaries/NI_AB_PROJECTNAME.lvlibp</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -100,7 +101,7 @@
 				<Property Name="Destination[1].path" Type="Path">../binaries</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{B786EB5A-713B-4E8B-9FAC-539CB8D4D8FD}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C2F48347-E221-4DBD-91F7-413D88976DA0}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/DataGrid.lvlib</Property>
@@ -110,17 +111,10 @@
 				<Property Name="Source[1].preventRename" Type="Bool">true</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
-				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref"></Property>
-				<Property Name="Source[2].type" Type="Str">VI</Property>
-				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[3].itemID" Type="Ref"></Property>
-				<Property Name="Source[3].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[3].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">4</Property>
+				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">DataGrid</Property>
 				<Property Name="TgtF_internalName" Type="Str">DataGrid</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">GPL V2.0 Open ource</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Apache 2.0 License</Property>
 				<Property Name="TgtF_productName" Type="Str">DataGrid</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{BA287B08-E306-4C72-9AFC-214CAF4FED4A}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">DataGrid.lvlibp</Property>
