@@ -11,6 +11,7 @@
 - [x] Column captions insted of names, allowing duplicates and multiline column headers.
 - [X] Additional Events (key presses, cell change, add row, delete row)
 - [X] VI Packager for installs
+- [x] Tooltips on the column headers
 
 Future Addons (to be evaluated / considered):
 - [ ] Saving/Restoring layouts
