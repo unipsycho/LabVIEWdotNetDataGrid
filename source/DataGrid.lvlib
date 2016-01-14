@@ -13,6 +13,11 @@
 		<Item Name="UserAddedRow.lvclass" Type="LVClass" URL="../Events/UserAddedRow/UserAddedRow.lvclass"/>
 		<Item Name="UserDeletedRow.lvclass" Type="LVClass" URL="../Events/UserDeletedRow/UserDeletedRow.lvclass"/>
 	</Item>
+	<Item Name="Examples" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Example Simple DataBinding.vi" Type="VI" URL="../Example Simple DataBinding.vi"/>
+		<Item Name="Example Custom Row Cell Types.vi" Type="VI" URL="../Example Custom Row Cell Types.vi"/>
+	</Item>
 	<Item Name="Helper Functions" Type="Folder">
 		<Item Name="Easy Color Columns.vi" Type="VI" URL="../Helper Functions/Easy Color Columns.vi"/>
 		<Item Name="Easy Grid Setup.vi" Type="VI" URL="../Helper Functions/Easy Grid Setup.vi"/>

@@ -22,8 +22,6 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DataGrid.lvlib" Type="Library" URL="../DataGrid.lvlib"/>
-		<Item Name="Example Simple DataBinding.vi" Type="VI" URL="../Example Simple DataBinding.vi"/>
-		<Item Name="Example Custom Row Cell Types.vi" Type="VI" URL="../Example Custom Row Cell Types.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="To .NET Object.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/To .NET Object.vi"/>
