@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-01-14 10:47:28" Creator="Mike" Comments="" ID="3a56eccc4406a173c549f647d983b5f7">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-01-15 07:05:01" Creator="Mike" Comments="" ID="1dbf8771434fe37ff1fcafc7bd39997b">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
-    <Library_Version>1.0.2.9</Library_Version>
+    <Library_Version>1.0.2.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -30,7 +30,9 @@
       <One_Line_Description_Summary>A LabVIEW table replacement using dotNet DataGridView for simple and easy use in LabVIEW.</One_Line_Description_Summary>
       <Description>A very useful and easy to use data grid to replace LabVIEW's tables and multicolumn listboxes. This datagrid supports more of the standard expected table/grid functions for sorting, filters and auto fitting content, and best of all, it supports some extended datatypes embedded within the grid.
 
-Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.  Its integrated for use with LabVIEW's event structure and you don't need to know .NET to use it.</Description>
+Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.  Its integrated for use with LabVIEW's event structure and you don't need to know .NET to use it.
+
+Note: VIPM 2014 or later is required to install this package.</Description>
       <Copyright/>
       <Packager>Mike King</Packager>
       <URL>https://github.com/unipsycho/LabVIEWdotNetDataGrid</URL>
@@ -335,7 +337,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\DataGridView\Add Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>95782BAB15FD6E84E0B046E0D8A42696</GUID>
+      <GUID>5DDA8E2AE6125ACA2E2E8221D16AB5C2</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -370,7 +372,7 @@ Basically, this grid allows better table support, with more built in features th
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CED3F1B9CBDA0BE6521582893C30D84</GUID>
+      <GUID>9122F833F765BFFB87D52FA9DF8D9722</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
