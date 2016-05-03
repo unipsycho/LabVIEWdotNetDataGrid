@@ -13,7 +13,7 @@
 - [X] VI Packager for installs
 - [x] Tooltips on the column headers
 
-Future Addons (to be evaluated / considered):
+Future Ideas needing contribution:
 - [ ] Saving/Restoring layouts
 - [ ] Database binding support (SQLite or others)
 - [ ] Cell highlights during edit and validation feedback

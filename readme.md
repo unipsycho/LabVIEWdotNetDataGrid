@@ -50,6 +50,9 @@ Currently, there are several datatypes supported:
 * Links
 
 #Events
+All events are automatically registered as user events for use in LabVIEW's event structure.  Each event type has a "getData.vi" that can be used to convert the event class data into elements within the event handler.  Using the easygrid helper functions, these events are all automatically registered, so can simply be connected to any event structure for use.
+
+The events currently available are:
 * Cell Edit Ended - This single event is used currently as a sample for callback events.
 * Cell Value Changed - 
 * Cell Validating - This is an automatic callback event, that cancels any edits when the cell value doesn't validate.  No LabVIEW events are currently generated from this.
@@ -61,5 +64,5 @@ Currently, there are several datatypes supported:
 Grab the latest releases to use this project [here from github](https://github.com/unipsycho/LabVIEWdotNetDataGrid/releases).
 # Contributing
 
-This repository is written and maintained in LabVIEW 2014 SP1.
+This repository is written and maintained in LabVIEW 2013 SP1.
 See the [Todo.md](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/todo.md) for areas you can contribute.

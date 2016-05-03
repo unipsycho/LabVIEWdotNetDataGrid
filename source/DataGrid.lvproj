@@ -79,7 +79,6 @@
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="DataGrid" Type="Packed Library">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{D4A175A4-613C-4461-92BB-4FB5F46C9439}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">DataGrid</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
@@ -89,9 +88,9 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{198ED58C-DA08-4E3F-A912-5B06D7D104EA}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.patch" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">4</Property>
 				<Property Name="Destination[0].destName" Type="Str">DataGrid.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../binaries/NI_AB_PROJECTNAME.lvlibp</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -100,7 +99,7 @@
 				<Property Name="Destination[1].path" Type="Path">../binaries</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C2F48347-E221-4DBD-91F7-413D88976DA0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2AB40A1C-A53D-4C15-9FBA-A0251B3229F3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/source/DataGrid.lvlib</Property>
