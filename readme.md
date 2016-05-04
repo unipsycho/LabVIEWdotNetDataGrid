@@ -44,7 +44,7 @@ Currently, there are several datatypes supported:
 * Booleans
 * Numbers
 * Timestamps
-* Images
+* Images (can set name of built in images, or add full path to custom images)
 * Buttons
 * Combobox (selection lists)
 * Links
@@ -66,3 +66,6 @@ Grab the latest releases to use this project [here from github](https://github.c
 
 This repository is written and maintained in LabVIEW 2013 SP1.
 See the [Todo.md](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/todo.md) for areas you can contribute.
+
+# Deployment
+The datagrid can be easily deployed into an EXE using the library such as in the example provided.  It can also be used by the packed library versions for LabVIEW and kept as a dynamic plugin module.  Both methods require that you include the images folder for supporting default built in images (or to add your own) so they can be used by name, instead of specifying a full path.

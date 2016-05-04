@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-05-03 07:05:56" Creator="Mike" Comments="" ID="80ed1b64af48eddb5aaa03b922a6e8c2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-05-03 21:39:49" Creator="Mike" Comments="" ID="e23f5a44b2dfe1b7ce942565035b5cfa">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
     <Library_Version>1.0.4.17</Library_Version>
@@ -32,7 +32,9 @@
 
 Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.  Its integrated for use with LabVIEW's event structure and you don't need to know .NET to use it.
 
-Note: VIPM 2014 or later is required to install this package.</Description>
+Note: VIPM 2014 or later is required to install this package.
+
+As a free product, there is no direct product support, but you can use the community forums for LabVIEW or github for more help.</Description>
       <Copyright/>
       <Packager>Mike King</Packager>
       <URL>https://github.com/unipsycho/LabVIEWdotNetDataGrid</URL>
@@ -106,6 +108,18 @@ Note: VIPM 2014 or later is required to install this package.</Description>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>source/subVIs/DataGrid for LabVIEW Documentation....vi</Path>
+        <Destination>4</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>source/Example Custom Row Cell Types.vi</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -136,9 +150,6 @@ Note: VIPM 2014 or later is required to install this package.</Description>
       </Exclusions>
       <Exclusions>
         <Path>todo.md</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>source/Example Custom Row Cell Types.vi</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>EULA.txt</License_Agreement_Filepath>
@@ -337,7 +348,7 @@ Note: VIPM 2014 or later is required to install this package.</Description>
         <Path>..\source\DataGridView\Add Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8F738DDC7A2EC3E7AA68CA0085D791AB</GUID>
+      <GUID>0BA92EB9980EE4CAA7F2C9CFE6E68A9B</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -372,7 +383,7 @@ Note: VIPM 2014 or later is required to install this package.</Description>
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6C95C5C3992D6B0367404220764334CE</GUID>
+      <GUID>A808AB3DCD0C1E181D2584655A48D581</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
