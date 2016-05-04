@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-05-03 21:39:49" Creator="Mike" Comments="" ID="e23f5a44b2dfe1b7ce942565035b5cfa">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-05-04 00:29:29" Creator="Mike" Comments="" ID="94a7a626ab0c743087595df1f100f036">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
-    <Library_Version>1.0.4.17</Library_Version>
+    <Library_Version>1.0.4.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -348,7 +348,7 @@ As a free product, there is no direct product support, but you can use the commu
         <Path>..\source\DataGridView\Add Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0BA92EB9980EE4CAA7F2C9CFE6E68A9B</GUID>
+      <GUID>2855F2C4B001E68F14792C92CF726C67</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -383,7 +383,7 @@ As a free product, there is no direct product support, but you can use the commu
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A808AB3DCD0C1E181D2584655A48D581</GUID>
+      <GUID>61709475BFF56781288F6422B9CAB1B8</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
