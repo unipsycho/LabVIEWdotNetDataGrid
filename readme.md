@@ -69,3 +69,6 @@ See the [Todo.md](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/t
 
 # Deployment
 The datagrid can be easily deployed into an EXE using the library such as in the example provided.  It can also be used by the packed library versions for LabVIEW and kept as a dynamic plugin module.  Both methods require that you include the images folder for supporting default built in images (or to add your own) so they can be used by name, instead of specifying a full path.
+
+# Support
+No Support is provided directly for this add-on, since its a free product, but you can use this community github page or the [LabVIEW forums](http://forums.ni.com/) for help and questions
