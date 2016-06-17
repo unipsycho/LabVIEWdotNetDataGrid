@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-05-04 00:29:29" Creator="Mike" Comments="" ID="94a7a626ab0c743087595df1f100f036">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-11-22 16:17:28" Modified_Date="2016-06-16 14:49:09" Creator="Mike" Comments="" ID="8fe83e5aa1deba7594fe9c777495325f">
   <Library_General_Settings>
     <Package_File_Name>mike_king_lib_LabVIEW_DataGridView</Package_File_Name>
-    <Library_Version>1.0.4.18</Library_Version>
+    <Library_Version>1.0.5.26</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -25,7 +25,7 @@
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI/>
     </Custom_Action_VIs>
-    <VI_Package_Configuration_File>LabVIEW DataGridView.vipc</VI_Package_Configuration_File>
+    <VI_Package_Configuration_File>DataGrid for LabVIEW.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>A LabVIEW table replacement using dotNet DataGridView for simple and easy use in LabVIEW.</One_Line_Description_Summary>
       <Description>A very useful and easy to use data grid to replace LabVIEW's tables and multicolumn listboxes. This datagrid supports more of the standard expected table/grid functions for sorting, filters and auto fitting content, and best of all, it supports some extended datatypes embedded within the grid.
@@ -120,6 +120,30 @@ As a free product, there is no direct product support, but you can use the commu
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>source/DataGrid for LabVIEW.bin3</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>source/DataGrid.lvproj</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>source/DataGrid.lvlib</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>images</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -150,6 +174,9 @@ As a free product, there is no direct product support, but you can use the commu
       </Exclusions>
       <Exclusions>
         <Path>todo.md</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>source/Palettes</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>EULA.txt</License_Agreement_Filepath>
@@ -348,7 +375,7 @@ As a free product, there is no direct product support, but you can use the commu
         <Path>..\source\DataGridView\Add Rows.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2855F2C4B001E68F14792C92CF726C67</GUID>
+      <GUID>4473E196535835ADCDF4108D9562DD99</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -383,7 +410,7 @@ As a free product, there is no direct product support, but you can use the commu
         <Path>..\source\Controls\DataGrid.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>61709475BFF56781288F6422B9CAB1B8</GUID>
+      <GUID>7B559A33E6075D619BE4CFD72274B22E</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
