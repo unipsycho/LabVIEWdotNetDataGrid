@@ -28,6 +28,9 @@
 			<Item Name="Example Custom Row Cell Types.vi" Type="VI" URL="../Example Custom Row Cell Types.vi"/>
 			<Item Name="Example Simple DataBinding.vi" Type="VI" URL="../Example Simple DataBinding.vi"/>
 		</Item>
+		<Item Name="Test Code" Type="Folder" URL="../Test Code">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="DataGrid.lvlib" Type="Library" URL="../DataGrid.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
