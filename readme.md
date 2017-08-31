@@ -6,7 +6,7 @@ Basically, this grid allows better table support, with more built in features th
 ![Front Panel](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Frontpanel.png)
 
 
-#Features
+# Features
 * Auto drawing and formatting of content
 * Auto Column width sizing (auto, cell, fill, none, etc)
 * Inline objects for combobox, buttons, checks and images
@@ -15,30 +15,30 @@ Basically, this grid allows better table support, with more built in features th
 * Minimum column widths
 * Basic Events integration with LabVIEW Event structure for integration into your app
 
-#Easy to Use
+# Easy to Use
 ![Block Diagram](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/BlockDiagram.jpg)
 
 # Dependencies
 OpenG is used for several variant data inspectors
 
-#Usage
+# Usage
 See the example code. Four simple steps to use it:
 
-####1.Place a .NET DataGrid control on the front panel
+#### 1.Place a .NET DataGrid control on the front panel
 
 ![Insert .NET Control](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Insert%20.NET%20Control.jpg)
 
-####2.Initialize the DataGrid Class using the .net control reference
+#### 2.Initialize the DataGrid Class using the .net control reference
 
 ![Choose DataGridView](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/Select%20DataGridView.jpg)
 
-####3.Define the column parameters
+#### 3.Define the column parameters
 ![Define Columns](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/defineColumns.PNG)
 
-####4.Add data
+#### 4.Add data
 ![Add String Table Data](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/master/documentation/img/StringData.png)
 
-#Data Types
+# Data Types
 Currently, there are several datatypes supported:
 * Strings
 * Booleans
@@ -49,7 +49,7 @@ Currently, there are several datatypes supported:
 * Combobox (selection lists)
 * Links
 
-#Events
+# Events
 All events are automatically registered as user events for use in LabVIEW's event structure.  Each event type has a "getData.vi" that can be used to convert the event class data into elements within the event handler.  Using the easygrid helper functions, these events are all automatically registered, so can simply be connected to any event structure for use.
 
 The events currently available are:
