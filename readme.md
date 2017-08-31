@@ -1,4 +1,4 @@
-#LabVIEW dot Net DataGrid Overview
+# LabVIEW dot Net DataGrid Overview
 A very useful and easy to use data grid to replace LabVIEW's tables and multicolumn listboxes.  This datagrid supports more of the standard expected table/grid functions for sorting, filters and auto fitting content, and best of all, it supports some extended datatypes embedded within the grid.
 
 Basically, this grid allows better table support, with more built in features that you can use standard LabVIEW data with and basic properties to your own string data into a more friendly grid and content display.
