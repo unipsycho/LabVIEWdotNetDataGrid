@@ -64,7 +64,7 @@ The events currently available are:
 Grab the latest releases to use this project [here from github](https://github.com/unipsycho/LabVIEWdotNetDataGrid/releases).
 # Contributing
 
-This repository is written and maintained in LabVIEW 2013 SP1.
+This repository was originally created for LabIVEW 2013 SP1, some updates and maitenance now is bing down in LabIVEW 2014.
 See the [Todo.md](https://github.com/unipsycho/LabVIEWdotNetDataGrid/blob/v0.1/todo.md) for areas you can contribute.
 
 # Deployment
